@@ -1,0 +1,278 @@
+- generic [active] [ref=f5e1]:
+  - link "К витрине букетов" [ref=f5e2] [cursor=pointer]:
+    - /url: "#vitrina"
+  - paragraph [ref=f5e5]: Osta Flowers
+  - banner [ref=f5e6]:
+    - generic [ref=f5e7]:
+      - link "Osta Flowers, наверх" [ref=f5e8] [cursor=pointer]:
+        - /url: "#top"
+        - text: Osta Flowers
+      - link "Заказать букет" [ref=f5e10] [cursor=pointer]:
+        - /url: https://wa.me/79219424204?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%A5%D0%BE%D1%87%D1%83%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C%20%D0%B1%D1%83%D0%BA%D0%B5%D1%82
+  - main [ref=f5e11]:
+    - region [ref=f5e12]:
+      - generic [ref=f5e13]:
+        - generic [ref=f5e14]:
+          - paragraph [ref=f5e15]: Цветочная студия · Петроградская сторона
+          - heading "«Я так устала от банальных роз…» из отзыва на Яндекс Картах, ★ 5,0 Мы тоже." [level=1] [ref=f5e16]:
+            - generic [ref=f5e17]: «Я так устала от банальных роз…»
+            - generic [ref=f5e18]: из отзыва на Яндекс Картах, ★ 5,0
+            - emphasis [ref=f5e20]: Мы тоже.
+          - paragraph [ref=f5e21]: "Поэтому собираем букеты, которых вы больше нигде не увидите: редкие сорта, смелые сочетания и номер вместо названия. Ждём каждый день с 9 до 22 на Кронверкском, 65. По Петербургу привезём за час."
+          - generic [ref=f5e22]:
+            - link "Собрать букет" [ref=f5e23] [cursor=pointer]:
+              - /url: https://wa.me/79219424204?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%A5%D0%BE%D1%87%D1%83%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C%20%D0%B1%D1%83%D0%BA%D0%B5%D1%82
+            - link "Смотреть витрину →" [ref=f5e24] [cursor=pointer]:
+              - /url: "#vitrina"
+          - list "Рейтинг и награды" [ref=f5e25]:
+            - listitem [ref=f5e26]: 5,0 · Яндекс Карты
+            - listitem [ref=f5e27]: 196 отзывов
+            - listitem [ref=f5e28]: Хорошее место 2026
+        - figure "· Сейчас в сезоне пионы" [ref=f5e29]:
+          - img "Флорист несёт охапку розовых пионов" [ref=f5e31]
+    - generic [ref=f5e34]:
+      - generic [ref=f5e35]: Сборка в день заказа · Доставка по Петербургу за час · Кронверкский проспект, 65 · Ежедневно 9:00–22:00 · Свежая поставка каждую неделю ·
+      - generic [ref=f5e36]: Сборка в день заказа · Доставка по Петербургу за час · Кронверкский проспект, 65 · Ежедневно 9:00–22:00 · Свежая поставка каждую неделю ·
+    - region [ref=f5e37]:
+      - generic [ref=f5e38]:
+        - paragraph [ref=f5e39]: Студия
+        - generic [ref=f5e40]:
+          - generic [ref=f5e41]:
+            - heading [level=2] [ref=f5e42]:
+              - text: Не магазин.
+              - emphasis [ref=f5e43]: Студия
+            - paragraph [ref=f5e44]: "Osta Flowers на Петроградской стороне открыла флорист Ольга Останина. Здесь не продают готовые букеты с полки. Каждый собирают под человека: его повод, вкус и бюджет. Гостям наливают кофе и честно советуют, как продлить цветам жизнь."
+            - blockquote [ref=f5e45]:
+              - paragraph [ref=f5e46]: "«Каждый цветочек идеален: никаких заломов на лепестках»"
+              - generic [ref=f5e47]: Мария, отзыв на Яндекс Картах
+            - list "Студия в цифрах" [ref=f5e48]:
+              - listitem [ref=f5e49]:
+                - generic [ref=f5e50]: 5,0
+                - text: рейтинг на Яндексе
+              - listitem [ref=f5e51]:
+                - generic [ref=f5e52]: "196"
+                - text: отзывов, все ★★★★★
+              - listitem [ref=f5e53]:
+                - generic [ref=f5e54]: 73 000
+                - text: подписчиков в Instagram*
+              - listitem [ref=f5e55]:
+                - generic [ref=f5e56]: 9–22
+                - text: без выходных
+          - generic [ref=f5e57]:
+            - img "Руки флориста собирают белые пионы" [ref=f5e59]
+            - img "Секаторы и ленты на рабочем столе студии" [ref=f5e61]
+    - region [ref=f5e62]:
+      - generic [ref=f5e63]:
+        - paragraph [ref=f5e64]: Витрина
+        - generic [ref=f5e65]:
+          - heading [level=2] [ref=f5e66]:
+            - text: Букет под
+            - emphasis [ref=f5e67]: номером
+          - paragraph [ref=f5e68]: Названий нет, только номера, как в каталоге ателье. Состав меняется с каждой поставкой, характер не меняется никогда. Нажмите на букет, и он уже собирается.
+        - list [ref=f5e69]:
+          - listitem [ref=f5e70]:
+            - 'link "Букет №20: белые пионы в крафтовой бумаге №20 пион · эустома · зелень 4 900 ₽ Хочу этот →" [ref=f5e71] [cursor=pointer]':
+              - /url: https://wa.me/79219424204?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%A5%D0%BE%D1%87%D1%83%20%D0%B1%D1%83%D0%BA%D0%B5%D1%82%20%E2%84%9620%20%284%20900%20%E2%82%BD%29
+              - 'img "Букет №20: белые пионы в крафтовой бумаге" [ref=f5e73]'
+              - generic [ref=f5e74]: №20
+              - generic [ref=f5e75]:
+                - generic [ref=f5e76]: пион · эустома · зелень
+                - generic [ref=f5e77]: 4 900 ₽
+              - generic [ref=f5e78]: Хочу этот →
+          - listitem [ref=f5e79]:
+            - 'link "Букет №94: розы и маттиола в сиреневой упаковке №94 роза · маттиола · лимониум 4 500 ₽ Хочу этот →" [ref=f5e80] [cursor=pointer]':
+              - /url: https://wa.me/79219424204?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%A5%D0%BE%D1%87%D1%83%20%D0%B1%D1%83%D0%BA%D0%B5%D1%82%20%E2%84%9694%20%284%20500%20%E2%82%BD%29
+              - 'img "Букет №94: розы и маттиола в сиреневой упаковке" [ref=f5e82]'
+              - generic [ref=f5e83]: №94
+              - generic [ref=f5e84]:
+                - generic [ref=f5e85]: роза · маттиола · лимониум
+                - generic [ref=f5e86]: 4 500 ₽
+              - generic [ref=f5e87]: Хочу этот →
+          - listitem [ref=f5e88]:
+            - 'link "Букет №66: кремовые розы и гвоздики с эвкалиптом №66 роза · гвоздика · эвкалипт 4 000 ₽ Хочу этот →" [ref=f5e89] [cursor=pointer]':
+              - /url: https://wa.me/79219424204?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%A5%D0%BE%D1%87%D1%83%20%D0%B1%D1%83%D0%BA%D0%B5%D1%82%20%E2%84%9666%20%284%20000%20%E2%82%BD%29
+              - 'img "Букет №66: кремовые розы и гвоздики с эвкалиптом" [ref=f5e91]'
+              - generic [ref=f5e92]: №66
+              - generic [ref=f5e93]:
+                - generic [ref=f5e94]: роза · гвоздика · эвкалипт
+                - generic [ref=f5e95]: 4 000 ₽
+              - generic [ref=f5e96]: Хочу этот →
+          - listitem [ref=f5e97]:
+            - 'link "Букет №23: нежный букет в пудровой упаковке №23 эустома · роза · фрезия 3 200 ₽ Хочу этот →" [ref=f5e98] [cursor=pointer]':
+              - /url: https://wa.me/79219424204?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%A5%D0%BE%D1%87%D1%83%20%D0%B1%D1%83%D0%BA%D0%B5%D1%82%20%E2%84%9623%20%283%20200%20%E2%82%BD%29
+              - 'img "Букет №23: нежный букет в пудровой упаковке" [ref=f5e100]'
+              - generic [ref=f5e101]: №23
+              - generic [ref=f5e102]:
+                - generic [ref=f5e103]: эустома · роза · фрезия
+                - generic [ref=f5e104]: 3 200 ₽
+              - generic [ref=f5e105]: Хочу этот →
+          - listitem [ref=f5e106]:
+            - 'link "Композиция в сумочке №2: компактная композиция из сезонных цветов №2 композиция в сумочке · пион · фисташка 3 500 ₽ Хочу эту →" [ref=f5e107] [cursor=pointer]':
+              - /url: https://wa.me/79219424204?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%A5%D0%BE%D1%87%D1%83%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8E%20%D0%B2%20%D1%81%D1%83%D0%BC%D0%BE%D1%87%D0%BA%D0%B5%20%E2%84%962%20%283%20500%20%E2%82%BD%29
+              - 'img "Композиция в сумочке №2: компактная композиция из сезонных цветов" [ref=f5e109]'
+              - generic [ref=f5e110]: №2
+              - generic [ref=f5e111]:
+                - generic [ref=f5e112]: композиция в сумочке · пион · фисташка
+                - generic [ref=f5e113]: 3 500 ₽
+              - generic [ref=f5e114]: Хочу эту →
+          - listitem [ref=f5e115]:
+            - 'link "Композиция в сумочке №7: сухоцветы и эвкалипт №7 композиция в сумочке · сухоцветы 3 500 ₽ Хочу эту →" [ref=f5e116] [cursor=pointer]':
+              - /url: https://wa.me/79219424204?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%A5%D0%BE%D1%87%D1%83%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8E%20%D0%B2%20%D1%81%D1%83%D0%BC%D0%BE%D1%87%D0%BA%D0%B5%20%E2%84%967%20%283%20500%20%E2%82%BD%29
+              - 'img "Композиция в сумочке №7: сухоцветы и эвкалипт" [ref=f5e118]'
+              - generic [ref=f5e119]: №7
+              - generic [ref=f5e120]:
+                - generic [ref=f5e121]: композиция в сумочке · сухоцветы
+                - generic [ref=f5e122]: 3 500 ₽
+              - generic [ref=f5e123]: Хочу эту →
+          - listitem [ref=f5e124]:
+            - 'link "Букет дня: ранункулюсы в крафтовой бумаге №∅ букет дня · то, что сегодня красивее всего от 3 000 ₽ Доверюсь →" [ref=f5e125] [cursor=pointer]':
+              - /url: https://wa.me/79219424204?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%A5%D0%BE%D1%87%D1%83%20%D0%B1%D1%83%D0%BA%D0%B5%D1%82%20%D0%B4%D0%BD%D1%8F
+              - 'img "Букет дня: ранункулюсы в крафтовой бумаге" [ref=f5e127]'
+              - generic [ref=f5e128]: №∅
+              - generic [ref=f5e129]:
+                - generic [ref=f5e130]: букет дня · то, что сегодня красивее всего
+                - generic [ref=f5e131]: от 3 000 ₽
+              - generic [ref=f5e132]: Доверюсь →
+          - listitem [ref=f5e133]:
+            - link "Ваш назовите повод, соберём под него бюджет ваш Придумать вместе →" [ref=f5e134] [cursor=pointer]:
+              - /url: https://wa.me/79219424204?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%A5%D0%BE%D1%87%D1%83%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C%20%D1%81%D0%B2%D0%BE%D0%B9%20%D0%B1%D1%83%D0%BA%D0%B5%D1%82
+              - generic [ref=f5e135]: №?
+              - generic [ref=f5e137]: Ваш
+              - generic [ref=f5e138]:
+                - generic [ref=f5e139]: назовите повод, соберём под него
+                - generic [ref=f5e140]: бюджет ваш
+              - generic [ref=f5e141]: Придумать вместе →
+        - paragraph [ref=f5e142]: Цены как на витрине студии. Фотографии обновляются с каждой поставкой.
+    - region [ref=f5e143]:
+      - generic [ref=f5e145]:
+        - generic [ref=f5e146]:
+          - paragraph [ref=f5e147]: Доставка
+          - heading [level=2] [ref=f5e148]:
+            - text: Петербург не спит.Мы работаем до
+            - emphasis [ref=f5e149]: 22:00
+            - text: .
+          - paragraph [ref=f5e150]: Забыли про годовщину? Свидание перенеслось на вечер? Соберём и привезём букет за час по всему городу, каждый день до десяти вечера.
+          - list [ref=f5e151]:
+            - listitem [ref=f5e152]: Доставка по городу за час
+            - listitem [ref=f5e153]: Самовывоз с Кронверкского, 65
+            - listitem [ref=f5e154]: Оплата картой, наличными или по ссылке
+          - link "Заказать к вечеру" [ref=f5e155] [cursor=pointer]:
+            - /url: https://wa.me/79219424204?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%A5%D0%BE%D1%87%D1%83%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D1%8C%20%D0%B1%D1%83%D0%BA%D0%B5%D1%82
+        - generic [ref=f5e156]:
+          - img "Розовые пионы на чёрном фоне" [ref=f5e158]
+          - img "Тёмный букет с алыми цветами" [ref=f5e160]
+    - region [ref=f5e161]:
+      - generic [ref=f5e162]:
+        - paragraph [ref=f5e163]: События
+        - heading [level=2] [ref=f5e164]:
+          - text: Когда цветов нужно
+          - emphasis [ref=f5e165]: больше
+        - list [ref=f5e166]:
+          - listitem [ref=f5e167]:
+            - img "Свадебный стол с цветочными композициями" [ref=f5e169]
+            - generic [ref=f5e170]:
+              - heading "Свадьбы" [level=3] [ref=f5e171]
+              - paragraph [ref=f5e172]: Букет невесты, арка, столы гостей. Соберём весь день в одной палитре, от примерки до последнего танца.
+              - link "Обсудить свадьбу →" [ref=f5e173] [cursor=pointer]:
+                - /url: https://wa.me/79219424204?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%A5%D0%BE%D1%87%D1%83%20%D0%BE%D0%B1%D1%81%D1%83%D0%B4%D0%B8%D1%82%D1%8C%20%D1%81%D0%B2%D0%B0%D0%B4%D0%B5%D0%B1%D0%BD%D1%83%D1%8E%20%D1%84%D0%BB%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D1%83
+          - listitem [ref=f5e174]:
+            - img "Вечернее оформление зала цветами и свечами" [ref=f5e176]
+            - generic [ref=f5e177]:
+              - heading "Мероприятия" [level=3] [ref=f5e178]
+              - paragraph [ref=f5e179]: Презентации, ужины, съёмки. Оформление, которое попадает в кадр и в память гостей.
+              - link "Обсудить событие →" [ref=f5e180] [cursor=pointer]:
+                - /url: https://wa.me/79219424204?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%A5%D0%BE%D1%87%D1%83%20%D0%BE%D0%B1%D1%81%D1%83%D0%B4%D0%B8%D1%82%D1%8C%20%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F
+          - listitem [ref=f5e181]:
+            - img "Композиция из пионов в вазе на светлом фоне" [ref=f5e183]
+            - generic [ref=f5e184]:
+              - heading "Для бизнеса" [level=3] [ref=f5e185]
+              - paragraph [ref=f5e186]: Цветы по подписке для офисов, отелей и ресторанов. Свежая композиция каждую неделю, без напоминаний.
+              - link "Обсудить подписку →" [ref=f5e187] [cursor=pointer]:
+                - /url: https://wa.me/79219424204?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%A5%D0%BE%D1%87%D1%83%20%D0%BE%D0%B1%D1%81%D1%83%D0%B4%D0%B8%D1%82%D1%8C%20%D1%86%D0%B2%D0%B5%D1%82%D1%8B%20%D0%BF%D0%BE%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B5
+    - region [ref=f5e188]:
+      - generic [ref=f5e189]:
+        - paragraph [ref=f5e190]: Отзывы
+        - heading [level=2] [ref=f5e191]:
+          - text: Пять звёзд.
+          - emphasis [ref=f5e192]: Сто девяносто шесть раз.
+        - list [ref=f5e193]:
+          - listitem [ref=f5e194]:
+            - blockquote [ref=f5e195]:
+              - paragraph [ref=f5e196]: "«Чистое искусство: такие необычные сочетания и фактуры я не видела больше нигде»"
+              - generic [ref=f5e197]: Евгения
+          - listitem [ref=f5e198]:
+            - blockquote [ref=f5e199]:
+              - paragraph [ref=f5e200]: «Здесь реально создают эмоции. Всё сделали в нужных тонах, креативно и с идеальным чувством стиля»
+              - generic [ref=f5e201]: Заира
+          - listitem [ref=f5e202]:
+            - blockquote [ref=f5e203]:
+              - paragraph [ref=f5e204]: «Заказываю здесь много лет, хотя сама живу не в России. Всегда всё на высшем уровне»
+              - generic [ref=f5e205]: Лариса
+        - generic [ref=f5e206]:
+          - generic [ref=f5e207]: Хорошее место 2026 · награда Яндекса
+          - link "Все отзывы на Яндекс Картах →" [ref=f5e208] [cursor=pointer]:
+            - /url: https://yandex.ru/maps/org/osta_flowers/46877463898/
+    - region [ref=f5e209]:
+      - generic [ref=f5e211]:
+        - generic [ref=f5e212]:
+          - paragraph [ref=f5e213]: Контакты
+          - heading [level=2] [ref=f5e214]:
+            - text: Кронверкский,
+            - emphasis [ref=f5e215]: "65"
+          - generic [ref=f5e216]:
+            - generic [ref=f5e217]:
+              - term [ref=f5e218]: Метро
+              - definition [ref=f5e219]: Горьковская, 10 минут пешком
+            - generic [ref=f5e220]:
+              - term [ref=f5e221]: Часы
+              - definition [ref=f5e222]: ежедневно 9:00–22:00
+            - generic [ref=f5e223]:
+              - term [ref=f5e224]: Телефон
+              - definition [ref=f5e225]:
+                - link "+7 921 942-42-04" [ref=f5e226] [cursor=pointer]:
+                  - /url: tel:+79219424204
+            - generic [ref=f5e227]:
+              - term [ref=f5e228]: Городской
+              - definition [ref=f5e229]:
+                - link "+7 812 942-42-04" [ref=f5e230] [cursor=pointer]:
+                  - /url: tel:+78129424204
+          - generic [ref=f5e231]:
+            - link "WhatsApp" [ref=f5e232] [cursor=pointer]:
+              - /url: https://wa.me/79219424204
+            - link "Telegram" [ref=f5e233] [cursor=pointer]:
+              - /url: https://t.me/osta_flowers
+            - link "Построить маршрут →" [ref=f5e234] [cursor=pointer]:
+              - /url: https://yandex.ru/maps/org/osta_flowers/46877463898/
+          - paragraph [ref=f5e235]:
+            - emphasis [ref=f5e236]: Приходите просто посмотреть, кофе нальём.
+        - figure "· Петроградская сторона, 197198" [ref=f5e237]:
+          - img "Флорист студии с охапкой тюльпанов в бумажном пакете" [ref=f5e239]
+  - contentinfo [ref=f5e241]:
+    - generic [ref=f5e242]:
+      - generic [ref=f5e243]:
+        - generic [ref=f5e244]:
+          - paragraph [ref=f5e245]: Osta Flowers
+          - paragraph [ref=f5e246]: Цветочная студия Ольги Останиной.Санкт-Петербург, Кронверкский пр., 65
+        - navigation "Навигация в подвале" [ref=f5e247]:
+          - link "Витрина" [ref=f5e248] [cursor=pointer]:
+            - /url: "#vitrina"
+          - link "Студия" [ref=f5e249] [cursor=pointer]:
+            - /url: "#studio"
+          - link "События" [ref=f5e250] [cursor=pointer]:
+            - /url: "#sobytiya"
+          - link "Отзывы" [ref=f5e251] [cursor=pointer]:
+            - /url: "#otzyvy"
+          - link "Контакты" [ref=f5e252] [cursor=pointer]:
+            - /url: "#kontakty"
+        - generic [ref=f5e253]:
+          - link "Instagram · @osta_flowers" [ref=f5e254] [cursor=pointer]:
+            - /url: https://www.instagram.com/osta_flowers/
+          - link "Telegram · @osta_flowers" [ref=f5e255] [cursor=pointer]:
+            - /url: https://t.me/osta_flowers
+          - link "WhatsApp · +7 921 942-42-04" [ref=f5e256] [cursor=pointer]:
+            - /url: https://wa.me/79219424204
+      - paragraph [ref=f5e257]: Osta
+      - generic [ref=f5e258]:
+        - generic [ref=f5e259]: © 2026 Osta Flowers · Санкт-Петербург
+        - generic [ref=f5e260]: "*Instagram принадлежит компании Meta, признанной экстремистской организацией; её деятельность запрещена на территории РФ"
+        - generic [ref=f5e261]: "Фото: Unsplash, временно до студийной съёмки"

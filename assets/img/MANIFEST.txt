@@ -1,0 +1,19 @@
+# Временные фото — Unsplash (https://unsplash.com/license)
+# Формат: файл <- Unsplash photo ID | роль на сайте
+
+hero-peonies.jpg <- photo-1540635352372-c21b523a29c6 | Хиро — охапка пионов
+peony-pale-vase.jpg <- photo-1616148037989-4c3a9946a514 | События — для бизнеса
+hands-peonies.jpg <- photo-1782038522377-4205a7e0d060 | Студия — руки флориста
+tools.jpg <- photo-1782038522723-f3ab645f9ae3 | Студия — инструменты
+studio-portrait.jpg <- photo-1749390109432-73035eb31315 | Контакты — портрет
+night-peonies.jpg <- photo-1511201173873-c327e63eb6c4 | Вечер — пионы на чёрном
+night-red.jpg <- photo-1487528742387-d53d4f12488d | Вечер — тёмный букет
+wedding-table.jpg <- photo-1519225421980-715cb0215aed | События — свадьбы
+wedding-candles.jpg <- photo-1751257567128-a90534b263e6 | События — мероприятия
+b1.jpg <- photo-1680563094046-5d846e2c59d1 | Витрина №94
+b2.jpg <- photo-1644248422980-8e0eb75a1557 | Витрина №23
+b5.jpg <- photo-1652346072098-cfc2e94d30e7 | Витрина №66
+b6.jpg <- photo-1557925923-6885735abfb1 | Витрина №20
+b8.jpg <- photo-1587317996329-b628c47000fe | Витрина — букет дня
+comp1.jpg <- photo-1558362003-bc494a7fc4c4 | Витрина — сумочка №2
+comp2.jpg <- photo-1713191352960-911f277876a7 | Витрина — сумочка №7

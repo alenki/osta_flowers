@@ -134,3 +134,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Сборка сайта (build.mjs) — артефакты, не исходники
+dist/
+osta-flowers-site.zip
+htaccess-copy.txt
